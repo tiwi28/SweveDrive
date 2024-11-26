@@ -1,0 +1,33 @@
+{
+  "HALProvider": {
+    "Other Devices": {
+      "SPARK MAX [13]": {
+        "header": {
+          "open": true
+        }
+      },
+      "SPARK MAX [14]": {
+        "header": {
+          "open": true
+        }
+      },
+      "SPARK MAX [15]": {
+        "header": {
+          "open": true
+        }
+      }
+    }
+  },
+  "NTProvider": {
+    "types": {
+      "/FMSInfo": "FMSInfo",
+      "/SmartDashboard/Field": "Field2d",
+      "/SmartDashboard/Go to Position": "Command",
+      "/SmartDashboard/PoseEstimator": "Subsystem",
+      "/SmartDashboard/Reset Pose Estimator": "Command"
+    }
+  },
+  "NetworkTables Info": {
+    "visible": true
+  }
+}
